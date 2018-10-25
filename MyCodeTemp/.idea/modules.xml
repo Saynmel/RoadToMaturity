@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTemp/JavaTemp.iml" filepath="$PROJECT_DIR$/JavaTemp/JavaTemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCodeTemp.iml" filepath="$PROJECT_DIR$/MyCodeTemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisTemp/RedisTemp.iml" filepath="$PROJECT_DIR$/RedisTemp/RedisTemp.iml" />
+    </modules>
+  </component>
+</project>
