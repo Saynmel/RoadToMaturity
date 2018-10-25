@@ -30,11 +30,8 @@ public class ArrayUtil {
 
     private void init() {
         for (int i = 0; i < 1000; i++) {
-//            int randomInt = (int) (Math.random() * 1000) + (int) (Math.random() * 100) + (int) (Math.random() * 10);
-//            arrays[i] = randomInt;
             Random random = new Random();
             int randomInt = random.nextInt(4);//在0~bound 之间随机产生数值
-//            i++;
             arrays[i] = randomInt;
         }
     }
