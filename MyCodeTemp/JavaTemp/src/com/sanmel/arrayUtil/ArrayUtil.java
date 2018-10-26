@@ -1,4 +1,4 @@
-package com.sanmel.ArrayUtil;
+package com.sanmel.arrayUtil;
 
 import java.util.*;
 
